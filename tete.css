@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px ;
+    text-decoration: underline ;
+    font-style: italic ;
+    text-align: center ;
+    color: blueviolet ;
+}
+h2{
+    font-size: 20px;
+    text-align: center ;
+    color:red ;
+    font-style: italic;
+    text-decoration: underline;
+}
+body {
+    
+    background-color:white ;
+}
+h3{
+    color: red;
+}
+
+
